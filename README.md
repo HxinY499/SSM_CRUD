@@ -1,1 +1,4 @@
 # SSM_CRUD
+数据库信息配置文件：database_config.properties
+更改为自己的数据库即可运行
+可直接运行sql脚本创建数据库
